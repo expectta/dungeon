@@ -4,7 +4,6 @@
       <root url="jar://$PROJECT_DIR$/../MyLib/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/JLayer1.0.1/jl1.0.1.jar!/" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES />
   </library>
 </component>
