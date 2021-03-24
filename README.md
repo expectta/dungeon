@@ -9,6 +9,8 @@
 4. 마을별 장비 구입
 5. 장비 장착 
 6. 레벨업에 따른 케릭터 능력치 상승
+* 사용한 라이브러리
+1. background BGM출력을 위한 jlayler
 
 상속관계도
 ![image](https://user-images.githubusercontent.com/58800945/112261832-e8eddc00-8caf-11eb-8133-143feb2a21d9.png)
